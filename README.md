@@ -6,7 +6,7 @@ Clone the repo and install the dependencies.
 
 ```bash
 git clone https://github.com/Krauseni/webp-frontend.git
-cd the-example-app.nodejs
+cd webp-frontend/
 ```
 
 ```bash
