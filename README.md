@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/Krauseni/webp-backend.git
+git clone https://github.com/Krauseni/webp-frontend.git
 cd the-example-app.nodejs
 ```
 
