@@ -36,7 +36,7 @@ function Membership() {
 
   return (<React.Fragment>
     <div className="padding">
-      <h2><div className='red'>Leider besteht zurzeit ein Aufnahmestopp!!!</div></h2>
+      <h2><div className='redText'>Leider besteht zurzeit ein Aufnahmestopp!!!</div></h2>
       <p className="d-flex justify-content-center">Wir informieren Sie hier, wenn wir wieder Mitglieder aufnehmen.</p>
 
 

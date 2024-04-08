@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Requirements
+
+* Node
+* Git
 
 ## Common setup
 
@@ -13,7 +17,7 @@ cd webp-frontend/
 npm install
 ```
 
-To start the express server, run the following
+To start the server, run the following
 
 ```bash
 npm run dev
