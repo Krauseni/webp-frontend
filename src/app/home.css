@@ -1,0 +1,25 @@
+.header {
+  background: linear-gradient(90deg, rgba(50, 132, 56, 1) 0%, rgba(106, 187, 92, 1) 38%, rgba(255, 255, 255, 1) 100%);
+  text-shadow: darkgray 1px 0 10px;
+  background-size: cover;
+  text-align: center;
+  margin-top: 3%;
+  padding: 3%;
+}
+
+.carousel-caption {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+  border-radius: 5px;
+}
+
+.cards {
+  align-items: flex-end;
+  margin-left: 10%;
+}
+
+.card {
+  margin: 1%;
+  width: 75%;
+  border: 2px solid rgb(50, 132, 56);
+}
